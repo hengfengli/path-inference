@@ -1,0 +1,1 @@
+java -cp lib/algs4.jar:PathInference.jar -Xmx4g pathinfer.main.PathInference
